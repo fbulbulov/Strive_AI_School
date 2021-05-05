@@ -1,1 +1,1 @@
-# Strive_AI_School
+# AISpring-exercises
